@@ -1,0 +1,15 @@
+C:\Users\sepehrrayaneh\Desktop\positive\obj\Debug\net7.0\positive.csproj.AssemblyReference.cache
+C:\Users\sepehrrayaneh\Desktop\positive\obj\Debug\net7.0\positive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sepehrrayaneh\Desktop\positive\obj\Debug\net7.0\positive.AssemblyInfoInputs.cache
+C:\Users\sepehrrayaneh\Desktop\positive\obj\Debug\net7.0\positive.AssemblyInfo.cs
+C:\Users\sepehrrayaneh\Desktop\positive\obj\Debug\net7.0\positive.csproj.CoreCompileInputs.cache
+C:\Users\sepehrrayaneh\Desktop\positive\bin\Debug\net7.0\positive.exe
+C:\Users\sepehrrayaneh\Desktop\positive\bin\Debug\net7.0\positive.deps.json
+C:\Users\sepehrrayaneh\Desktop\positive\bin\Debug\net7.0\positive.runtimeconfig.json
+C:\Users\sepehrrayaneh\Desktop\positive\bin\Debug\net7.0\positive.dll
+C:\Users\sepehrrayaneh\Desktop\positive\bin\Debug\net7.0\positive.pdb
+C:\Users\sepehrrayaneh\Desktop\positive\obj\Debug\net7.0\positive.dll
+C:\Users\sepehrrayaneh\Desktop\positive\obj\Debug\net7.0\refint\positive.dll
+C:\Users\sepehrrayaneh\Desktop\positive\obj\Debug\net7.0\positive.pdb
+C:\Users\sepehrrayaneh\Desktop\positive\obj\Debug\net7.0\positive.genruntimeconfig.cache
+C:\Users\sepehrrayaneh\Desktop\positive\obj\Debug\net7.0\ref\positive.dll
